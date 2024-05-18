@@ -1,0 +1,17 @@
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Data.deps.json
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Data.runtimeconfig.json
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Data.dll
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Data.pdb
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Domain.dll
+E:\BookLibrary\BookLibrary.Data\bin\Debug\net8.0\BookLibrary.Domain.pdb
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.csproj.AssemblyReference.cache
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.AssemblyInfoInputs.cache
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.AssemblyInfo.cs
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.csproj.CoreCompileInputs.cache
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.csproj.CopyComplete
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.dll
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\refint\BookLibrary.Data.dll
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.pdb
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\BookLibrary.Data.genruntimeconfig.cache
+E:\BookLibrary\BookLibrary.Data\obj\Debug\net8.0\ref\BookLibrary.Data.dll
